@@ -41,7 +41,7 @@ STM32MP1 Packages | Description
 [u-boot](https://github.com/STMicroelectronics/u-boot) | STM32MP1 u-boot
 [arm-trusted-firmware](https://github.com/STMicroelectronics/arm-trusted-firmware) | STM32MP1 arm trusted firmware (for A7)
 [optee_os](https://github.com/STMicroelectronics/optee_os) | STM32MP1 OPTEE OS
-[gcnano-binaries](https://github.com/STMicroelectronics/optee_os) | GPU binaries, GPU kernel driver source code
+[gcnano-binaries](https://github.com/STMicroelectronics/gcnano-binaries) | GPU binaries, GPU kernel driver source code
 [STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube co-processing firmware
 [linux-examples](https://github.com/STMicroelectronics/linux-examples) | some linux examples
 [devicetree-addons](https://github.com/STMicroelectronics/devicetree-addons) | STM32MP1 Boards user sections for CubeMX and device tree examples 
