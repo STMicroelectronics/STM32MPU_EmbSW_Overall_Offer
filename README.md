@@ -49,5 +49,5 @@ STM32MP1 Packages | Description
 ## Communication and support 
 For communication and support, you can use
 * [ST Support Center](https://my.st.com/ols#/ols/) for any defect
-* [ST Community MPU Forum](https://community.st.com/stm32mpu) forum 
+* [ST Community MPU](https://community.st.com/stm32mpu) forum 
 
