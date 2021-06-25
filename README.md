@@ -37,10 +37,10 @@ STM32MP1 Packages | Description
 [meta-st-scripts](https://github.com/STMicroelectronics/meta-st-scripts) | STM32MP1 OpenEmbedded/Yocto front-end scripts
 [meta-st-openstlinux](https://github.com/STMicroelectronics/meta-st-openstlinux) | STM32MP1 OpenEmbedded/Yocto frameworks layer (demonstrators, images examples, ...)
 [meta-st-stm32mp-addons](https://github.com/STMicroelectronics/meta-st-stm32mp-addons) | STM32MP1 OpenEmbedded/Yocto BSP layer addons (CubeMX machine, ...)
-[linux](https://github.com/STMicroelectronics/linux) | STM32MP1 linux kernel
-[u-boot](https://github.com/STMicroelectronics/u-boot) | STM32MP1 u-boot
-[arm-trusted-firmware](https://github.com/STMicroelectronics/arm-trusted-firmware) | STM32MP1 arm trusted firmware (for A7)
-[optee_os](https://github.com/STMicroelectronics/optee_os) | STM32MP1 OPTEE OS
+[linux](https://github.com/STMicroelectronics/linux) | STM32MP1 linux kernel on ***-stm32mp branch**
+[u-boot](https://github.com/STMicroelectronics/u-boot) | STM32MP1 u-boot on ***-stm32mp branch**
+[arm-trusted-firmware](https://github.com/STMicroelectronics/arm-trusted-firmware) | STM32MP1 arm trusted firmware (for A7) on ***-stm32mp branch**
+[optee_os](https://github.com/STMicroelectronics/optee_os) | STM32MP1 OPTEE OS on ***-stm32mp branch**
 [gcnano-binaries](https://github.com/STMicroelectronics/gcnano-binaries) | GPU binaries, GPU kernel driver source code
 [STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube co-processing firmware
 [linux-examples](https://github.com/STMicroelectronics/linux-examples) | some linux examples
