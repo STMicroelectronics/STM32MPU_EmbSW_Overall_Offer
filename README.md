@@ -44,7 +44,6 @@ STM32MP1 Packages | Description
 [gcnano-binaries](https://github.com/STMicroelectronics/gcnano-binaries) | GPU binaries, GPU kernel driver source code
 [STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube co-processing firmware
 [linux-examples](https://github.com/STMicroelectronics/linux-examples) | some linux examples
-[devicetree-addons](https://github.com/STMicroelectronics/devicetree-addons) | STM32MP1 Boards user sections for CubeMX and device tree examples 
 
 ## Communication and support 
 For communication and support, you can use
