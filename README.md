@@ -44,6 +44,15 @@ STM32MP1 Packages | Description
 [gcnano-binaries](https://github.com/STMicroelectronics/gcnano-binaries) | GPU binaries, GPU kernel driver source code
 [STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube co-processing firmware
 [linux-examples](https://github.com/STMicroelectronics/linux-examples) | some linux examples
+[optee-stm32mp-addons](https://github.com/STMicroelectronics/optee-stm32mp-addons) | STM32MPU features and add-ons around the OP-TEE ecosystem
+
+### STM32MPU Tools packages 
+STM32MP1 Packages | Description
+---------------------- | -----------
+[STM32DDRFW-UTIL](https://github.com/STMicroelectronics/STM32DDRFW-UTIL) | STM32MPU firmware used to initialize DDR and perform DDR tests
+[STM32PRGFW-UTIL](https://github.com/STMicroelectronics/STM32PRGFW-UTIL) | STM32MPU multiple applications to manage the One-time Programmable (OTP)
+[stm32wrapper4dbg](https://github.com/STMicroelectronics/stm32wrapper4dbg) | STM32MPU tool that adds a debug wrapper to a stm32 fsbl image
+[wiki-stm32mp-addons](https://github.com/STMicroelectronics/wiki-stm32mp-addons) | STM32MPU wiki content outside wiki
 
 ## Communication and support 
 For communication and support, you can use
