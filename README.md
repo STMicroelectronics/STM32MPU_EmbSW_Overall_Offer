@@ -54,6 +54,12 @@ STM32MP1 Packages | Description
 [stm32wrapper4dbg](https://github.com/STMicroelectronics/stm32wrapper4dbg) | STM32MPU tool that adds a debug wrapper to a stm32 fsbl image
 [wiki-stm32mp-addons](https://github.com/STMicroelectronics/wiki-stm32mp-addons) | STM32MPU wiki content outside wiki
 
+### STM32 MPU OpenSTLinux Expansion Packages 
+STM32MP1 Packages | Description
+---------------------- | -----------
+[X-LINUX-AI](https://github.com/STMicroelectronics/meta-st-stm32mpu-ai) | OpenEmbedded meta layer to install AI frameworks and tools for the STM32MP1
+[X-LINUX-PREDMNT](https://github.com/STMicroelectronics/meta-predmnt) | meta-predmnt is a meta layer for Linux Yocto based distributions to get the Predictive Maintenance Platform application from STMicroelectronics running on a Linux gateway
+
 ## Communication and support 
 For communication and support, you can use
 * [ST Support Center](https://my.st.com/ols#/ols/) for any defect
