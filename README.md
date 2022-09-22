@@ -58,7 +58,7 @@ STM32MP1 Packages | Description
 STM32MP1 Packages | Description
 ---------------------- | -----------
 [X-LINUX-AI](https://github.com/STMicroelectronics/meta-st-stm32mpu-ai) | OpenEmbedded meta layer to install AI frameworks and tools for the STM32MP1
-[X-LINUX-PREDMNT](https://github.com/STMicroelectronics/meta-predmnt) | meta-predmnt is a meta layer for Linux Yocto based distributions to get the Predictive Maintenance Platform application from STMicroelectronics running on a Linux gateway
+[X-LINUX-PREDMNT](https://github.com/STMicroelectronics/meta-predmnt) | OpenEmbedded meta layer to get the ST Predictive Maintenance Platform application
 
 ## Communication and support 
 For communication and support, you can use
