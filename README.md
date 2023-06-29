@@ -44,6 +44,7 @@ STM32MP1 Packages | Description
 [gcnano-binaries](https://github.com/STMicroelectronics/gcnano-binaries) | GPU binaries, GPU kernel driver source code
 [STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube co-processing firmware
 [linux-examples](https://github.com/STMicroelectronics/linux-examples) | some linux examples
+[st-openstlinux-application](https://github.com/STMicroelectronics/st-openstlinux-application) | ST boards default applications
 [optee-stm32mp-addons](https://github.com/STMicroelectronics/optee-stm32mp-addons) | STM32MPU features and add-ons around the OP-TEE ecosystem
 
 ### STM32MPU Tools packages 
