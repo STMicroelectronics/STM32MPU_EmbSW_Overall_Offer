@@ -43,6 +43,7 @@ STM32MP1 Packages | Description
 [optee_os](https://github.com/STMicroelectronics/optee_os) | STM32MP1 OPTEE OS on ***-stm32mp branch**
 [gcnano-binaries](https://github.com/STMicroelectronics/gcnano-binaries) | GPU binaries, GPU kernel driver source code
 [STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube co-processing firmware
+[STM32CubeMP13](https://github.com/STMicroelectronics/STM32CubeMP13) | STM32MP13 Cube A7 firmware
 [linux-examples](https://github.com/STMicroelectronics/linux-examples) | some linux examples
 [st-openstlinux-application](https://github.com/STMicroelectronics/st-openstlinux-application) | STM32MPU boards default applications
 [optee-stm32mp-addons](https://github.com/STMicroelectronics/optee-stm32mp-addons) | STM32MPU features and add-ons around the OP-TEE ecosystem
