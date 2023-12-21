@@ -59,7 +59,8 @@ STM32MP1 Packages | Description
 ### STM32 MPU OpenSTLinux Expansion Packages 
 STM32MP1 Packages | Description
 ---------------------- | -----------
-[X-LINUX-AI](https://github.com/STMicroelectronics/meta-st-stm32mpu-ai) | OE meta layer to install AI frameworks and tools for the STM32MP1
+[X-LINUX-AI](https://github.com/STMicroelectronics/meta-st-stm32mpu-ai) | OE meta layer to install AI frameworks and tools for the STM32MP1 https://www.st.com/en/embedded-software/x-linux-rt.html
+[X-LINUX-RT](https://github.com/STMicroelectronics/meta-st-x-linux-rt) |  OE meta layer to get the [X-LINUX-RT](https://www.st.com/en/embedded-software/x-linux-rt.html) expansion package
 [X-LINUX-PREDMNT](https://github.com/STMicroelectronics/meta-predmnt) | OE meta layer to get the ST Predictive Maintenance Platform application
 [X-LINUX-GNSS1](https://github.com/STMicroelectronics/meta-st-x-linux-gnss1) | OE meta layer to get the [X-LINUX-GNSS1](https://www.st.com/en/embedded-software/x-linux-gnss1.html) expansion package
 [X-LINUX-SPN1](https://github.com/STMicroelectronics/x-linux-spn1) | OE meta layer to get the [X-LINUX-SPN1](https://www.st.com/en/embedded-software/x-linux-spn1.html) expansion package
