@@ -80,5 +80,5 @@ X-Cube Packages | Description
 ## Communication and support 
 For communication and support, you can use
 * [ST Support Center](https://my.st.com/ols#/ols/) for any defect
-* [ST Community MPU](https://community.st.com/stm32mpu) forum 
+* [ST Community MPU](https://community.st.com/s/topic/0TO0X0000003u2AWAQ/stm32-mpus) forum 
 
