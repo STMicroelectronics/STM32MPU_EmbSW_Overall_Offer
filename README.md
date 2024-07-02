@@ -49,10 +49,10 @@ OpenSTLinux Packages | Description
 
 Other MPU Packages | Description
 ---------------------- | -----------
-[STM32CubeMP2](https://github.com/STMicroelectronics/STM32CubeMP2) | STM32MP2 Cube co-processing firmware
-[STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube co-processing firmware
+[STM32CubeMP2](https://github.com/STMicroelectronics/STM32CubeMP2) | STM32MP2 Cube running in non secure M33 context
+[STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube running in non secure M4 context
 [STM32CubeMP13](https://github.com/STMicroelectronics/STM32CubeMP13) | STM32MP13 Cube A7 firmware
-[trusted-firmware-m](https://github.com/STMicroelectronics/trusted-firmware-m) | This git contains STM32MP2 source code for Trusted Firmware-M
+[trusted-firmware-m](https://github.com/STMicroelectronics/trusted-firmware-m) | STM32MP2 Trusted Firmware-M running in secure M33 context
 
 ### STM32MPU Tools packages 
 STM32MPU Packages | Description
@@ -62,14 +62,21 @@ STM32MPU Packages | Description
 [stm32wrapper4dbg](https://github.com/STMicroelectronics/stm32wrapper4dbg) | STM32MPU tool that adds a debug wrapper to a stm32 fsbl image
 [wiki-stm32mp-addons](https://github.com/STMicroelectronics/wiki-stm32mp-addons) | STM32MPU wiki content outside wiki
 
-### STM32 MPU OpenSTLinux Expansion Packages 
-STM32MPU Packages | Description
+### STM32 MPU Expansion Packages 
+OpenSTLinux Packages | Description
 ---------------------- | -----------
 [X-LINUX-AI](https://github.com/STMicroelectronics/meta-st-stm32mpu-ai) | OE meta layer to install AI frameworks and tools for the STM32MPU
 [X-LINUX-RT](https://github.com/STMicroelectronics/meta-st-x-linux-rt) |  OE meta layer to get the [X-LINUX-RT](https://www.st.com/en/embedded-software/x-linux-rt.html) expansion package
 [X-LINUX-PREDMNT](https://github.com/STMicroelectronics/meta-predmnt) | OE meta layer to get the ST Predictive Maintenance Platform application
 [X-LINUX-GNSS1](https://github.com/STMicroelectronics/meta-st-x-linux-gnss1) | OE meta layer to get the [X-LINUX-GNSS1](https://www.st.com/en/embedded-software/x-linux-gnss1.html) expansion package
 [X-LINUX-SPN1](https://github.com/STMicroelectronics/x-linux-spn1) | OE meta layer to get the [X-LINUX-SPN1](https://www.st.com/en/embedded-software/x-linux-spn1.html) expansion package
+[X-LINUX-TSNSWCH](https://github.com/STMicroelectronics/meta-st-stm32mp-tsn-swch) | STM32MP2 Expansion Package that targets the Time-Sensitive Networking (TSN) switch
+[X-LINUX-ACM](https://github.com/STMicroelectronics/meta-st-stm32mp-tsn-acm) | STM32MP2 Expansion Package providing a distribution package to generate a series of software to manage ACM
+
+X-Cube Packages | Description
+---------------------- | -----------
+[x-cube-freertos-mpu](https://github.com/STMicroelectronics/x-cube-freertos-mpu) | Full integration of FreeRTOS in the STM32Cube environment for the STM32CUBEMP13 series
+
 ## Communication and support 
 For communication and support, you can use
 * [ST Support Center](https://my.st.com/ols#/ols/) for any defect
