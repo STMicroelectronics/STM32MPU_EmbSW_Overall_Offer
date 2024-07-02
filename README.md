@@ -63,7 +63,7 @@ STM32MPU Packages | Description
 [wiki-stm32mp-addons](https://github.com/STMicroelectronics/wiki-stm32mp-addons) | STM32MPU wiki content outside wiki
 
 ### STM32 MPU Expansion Packages 
-OpenSTLinux Packages | Description
+X-LINUX Packages | Description
 ---------------------- | -----------
 [X-LINUX-AI](https://github.com/STMicroelectronics/meta-st-stm32mpu-ai) | OE meta layer to install AI frameworks and tools for the STM32MPU
 [X-LINUX-RT](https://github.com/STMicroelectronics/meta-st-x-linux-rt) |  OE meta layer to get the [X-LINUX-RT](https://www.st.com/en/embedded-software/x-linux-rt.html) expansion package
