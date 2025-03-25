@@ -75,7 +75,7 @@ X-LINUX Packages | Description
 
 X-Cube Packages | Description
 ---------------------- | -----------
-[x-cube-freertos-mpu](https://github.com/STMicroelectronics/x-cube-freertos-mpu) | Full integration of FreeRTOS in the STM32Cube environment for the STM32CUBEMP13 series
+[x-cube-freertos-mpu](https://github.com/STMicroelectronics/x-cube-freertos-mpu) | Full integration of FreeRTOS in the STM32Cube environment for the STM32CUBEMP13 series V1.1.0. 
 
 ## Communication and support 
 For communication and support, you can use
