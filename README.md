@@ -46,6 +46,8 @@ OpenSTLinux Packages | Description
 [st-openstlinux-application](https://github.com/STMicroelectronics/st-openstlinux-application) | STM32MPU boards default applications
 [optee-stm32mp-addons](https://github.com/STMicroelectronics/optee-stm32mp-addons) | STM32MPU features and add-ons around the OP-TEE ecosystem
 [dt-stm32mp](https://github.com/STMicroelectronics/dt-stm32mp) | STM32MP2 STM32 MPU embedded software device tree configurations addons
+[SCP-firmware](https://github.com/STMicroelectronics/SCP-firmware) | STM32MPU SCP-firmware on ***-stm32mp branch-***
+[ddr-phy](https://github.com/STMicroelectronics/stm32-ddr-phy-binary) | Firmware for DDR PHY on STM32MP2
 
 Other MPU Packages | Description
 ---------------------- | -----------
@@ -72,6 +74,12 @@ X-LINUX Packages | Description
 [X-LINUX-SPN1](https://github.com/STMicroelectronics/x-linux-spn1) | OE meta layer to get the [X-LINUX-SPN1](https://www.st.com/en/embedded-software/x-linux-spn1.html) expansion package
 [X-LINUX-TSNSWCH](https://github.com/STMicroelectronics/meta-st-stm32mp-tsn-swch) | STM32MP2 Expansion Package that targets the Time-Sensitive Networking (TSN) switch
 [X-LINUX-ACM](https://github.com/STMicroelectronics/meta-st-stm32mp-tsn-acm) | STM32MP2 Expansion Package providing a distribution package to generate a series of software to manage ACM
+[X-LINUX-AZURE](https://github.com/STMicroelectronics/meta-st-x-linux-azure) | STM32 MPU OpenSTLinux Expansion Package that targets Microsoft Azure IoT Edge for STM32MP25xx product microprocessors
+[X-LINUX-AWS](https://github.com/STMicroelectronics/meta-st-x-linux-aws) | STM32 MPU OpenSTLinux Expansion Package that targets Amazon Web Services® AWS IoT GreengrassTM V2 for STM32MP13 and STM32MP25 product microprocessors
+[X-LINUX-QT](https://github.com/STMicroelectronics/meta-st-x-linux-qt) | STM32 MPU OpenSTLinux Expansion Package that targets Qt based application and graphical user interface (GUI) development for the STM32MP25xx series microprocessors
+[X-LINUX-TPM](https://github.com/STMicroelectronics/meta-st-x-linux-tpm) | It brings the support of STPM4RasPI expansion board into the OpenSTLinux distribution
+[X-LINUX-ISP](https://github.com/STMicroelectronics/meta-st-x-linux-isp) | Open-source software package providing ISP (Image Signal Processing) image quality software targeting the STM32MP25x series that embed an ISP camera pipeline called
+
 
 X-Cube Packages | Description
 ---------------------- | -----------
