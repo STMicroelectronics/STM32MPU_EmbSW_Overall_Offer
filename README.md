@@ -79,7 +79,7 @@ X-LINUX Packages | Description
 [X-LINUX-QT](https://github.com/STMicroelectronics/meta-st-x-linux-qt) | STM32 MPU OpenSTLinux Expansion Package that targets Qt based application and graphical user interface (GUI) development for the STM32MP25xx series microprocessors
 [X-LINUX-TPM](https://github.com/STMicroelectronics/meta-st-x-linux-tpm) | It brings the support of STPM4RasPI expansion board into the OpenSTLinux distribution
 [X-LINUX-ISP](https://github.com/STMicroelectronics/meta-st-x-linux-isp) | Open-source software package providing ISP (Image Signal Processing) image quality software targeting the STM32MP25x series that embed an ISP camera pipeline called
-[X-LINUX-IGWWSN1]((https://github.com/STMicroelectronics/x-linux-igwwsn1)) | STM32 MPU OpenSTLinux Expansion Package for Industrial WSN edge gateway - Connecting Sensors to the Cloud
+[X-LINUX-IGWWSN1](https://github.com/STMicroelectronics/x-linux-igwwsn1) | STM32 MPU OpenSTLinux Expansion Package for Industrial WSN edge gateway - Connecting Sensors to the Cloud
 
 X-Cube Packages | Description
 ---------------------- | -----------
