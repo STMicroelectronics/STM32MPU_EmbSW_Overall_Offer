@@ -84,6 +84,7 @@ X-LINUX Packages | Description
 [X-LINUX-IGWWSN1](https://github.com/STMicroelectronics/x-linux-igwwsn1) | STM32 MPU OpenSTLinux Expansion Package for Industrial WSN edge gateway - Connecting Sensors to the Cloud
 [X-LINUX-IGTW1](https://github.com/STMicroelectronics/x-linux-igtw1) | Linux-based expansion software package designed for industrial application development on STM32 MPU
 
+
 X-Cube Packages | Description
 ---------------------- | -----------
 [x-cube-freertos-mpu](https://github.com/STMicroelectronics/x-cube-freertos-mpu) | Full integration of FreeRTOS in the STM32Cube environment for the STM32CUBEMP13 series V1.1.0. 
