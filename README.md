@@ -57,7 +57,7 @@ Other MPU Packages | Description
 [trusted-firmware-m](https://github.com/STMicroelectronics/trusted-firmware-m) | STM32MP2 Trusted Firmware-M running in secure M33 context
 [SCP-firmware](https://github.com/STMicroelectronics/SCP-firmware) | STM32MPU SCP-firmware on ***-stm32mp branch-***
 [OpenBMC-stm32mpu](https://github.com/STMicroelectronics/openbmc-stm32mpu) | How to set up openBMC for STM32MPU
-[meta-st-ota](https://github.com/STMicroelectronics/meta-st-ota) | Layer to demonstrate how the secure firmware update is working in OpenSTLinux.
+[meta-st-ota](https://github.com/STMicroelectronics/meta-st-ota) | STM32MPU Yocto layer to demonstrate how the secure firmware update is working in OpenSTLinux.
 
 ### STM32MPU Tools packages 
 STM32MPU Packages | Description
