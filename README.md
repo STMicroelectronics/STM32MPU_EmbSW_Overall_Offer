@@ -52,9 +52,12 @@ OpenSTLinux Packages | Description
 Other MPU Packages | Description
 ---------------------- | -----------
 [STM32CubeMP2](https://github.com/STMicroelectronics/STM32CubeMP2) | STM32MP2 Cube running in non secure M33 context
+[cmsis-device-mp2](https://github.com/STMicroelectronics/cmsis-device-mp2) | Provides the STM32Cube CMSIS Device MPU Component of the STM32MP2 series.
 [stm32mp2xx-hal-driver](https://github.com/STMicroelectronics/stm32mp2xx-hal-driver) | Provides the STM32Cube MPU Component "hal_driver" of the STM32MP2 series.
 [STM32CubeMP1](https://github.com/STMicroelectronics/STM32CubeMP1) | STM32MP1 Cube running in non secure M4 context
 [STM32CubeMP13](https://github.com/STMicroelectronics/STM32CubeMP13) | STM32MP13 Cube A7 firmware
+[cmsis_device_mp13](https://github.com/STMicroelectronics/cmsis_device_mp13) | Provides the STM32Cube CMSIS Device MPU Component of the STM32MP13 series.
+[stm32mp13xx-hal-driver](https://github.com/STMicroelectronics/stm32mp13xx_hal_driver) | Provides the STM32Cube MPU Component "hal_driver" of the STM32MP13 series.
 [trusted-firmware-m](https://github.com/STMicroelectronics/trusted-firmware-m) | STM32MP2 Trusted Firmware-M running in secure M33 context
 [SCP-firmware](https://github.com/STMicroelectronics/SCP-firmware) | STM32MPU SCP-firmware on ***-stm32mp branch-***
 [OpenBMC-stm32mpu](https://github.com/STMicroelectronics/openbmc-stm32mpu) | How to set up openBMC for STM32MPU
