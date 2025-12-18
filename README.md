@@ -59,6 +59,7 @@ Other MPU Packages | Description
 [cmsis_device_mp13](https://github.com/STMicroelectronics/cmsis_device_mp13) | Provides the STM32Cube CMSIS Device MPU Component of the STM32MP13 series.
 [stm32mp13xx-hal-driver](https://github.com/STMicroelectronics/stm32mp13xx_hal_driver) | Provides the STM32Cube MPU Component "hal_driver" of the STM32MP13 series.
 [trusted-firmware-m](https://github.com/STMicroelectronics/trusted-firmware-m) | STM32MP2 Trusted Firmware-M running in secure M33 context
+[tf-m-tests](https://github.com/STMicroelectronics/tf-m-tests) | Provides tests for trusted-firmware-m component
 [SCP-firmware](https://github.com/STMicroelectronics/SCP-firmware) | STM32MPU SCP-firmware on ***-stm32mp branch-***
 [OpenBMC-stm32mpu](https://github.com/STMicroelectronics/openbmc-stm32mpu) | How to set up openBMC for STM32MPU
 [meta-st-ota](https://github.com/STMicroelectronics/meta-st-ota) | STM32MPU Yocto layer to demonstrate how the secure firmware update is working in OpenSTLinux.
