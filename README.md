@@ -82,7 +82,6 @@ X-LINUX Packages | Description
 [X-LINUX-GNSS1](https://github.com/STMicroelectronics/meta-st-x-linux-gnss1) | OE meta layer to get the [X-LINUX-GNSS1](https://www.st.com/en/embedded-software/x-linux-gnss1.html) expansion package
 [X-LINUX-SPN1](https://github.com/STMicroelectronics/x-linux-spn1) | OE meta layer to get the [X-LINUX-SPN1](https://www.st.com/en/embedded-software/x-linux-spn1.html) expansion package
 [X-LINUX-TSNSWCH](https://github.com/STMicroelectronics/meta-st-stm32mp-tsn-swch) | STM32MP2 Expansion Package that targets the Time-Sensitive Networking (TSN) switch
-[X-LINUX-ACM](https://github.com/STMicroelectronics/meta-st-stm32mp-tsn-acm) | STM32MP2 Expansion Package providing a distribution package to generate a series of software to manage ACM
 [X-LINUX-AZURE](https://github.com/STMicroelectronics/meta-st-x-linux-azure) | STM32 MPU OpenSTLinux Expansion Package that targets Microsoft Azure IoT Edge for STM32MP25xx product microprocessors
 [X-LINUX-AWS](https://github.com/STMicroelectronics/meta-st-x-linux-aws) | STM32 MPU OpenSTLinux Expansion Package that targets Amazon Web Services® AWS IoT GreengrassTM V2 for STM32MP13 and STM32MP25 product microprocessors
 [X-LINUX-QT](https://github.com/STMicroelectronics/meta-st-x-linux-qt) | STM32 MPU OpenSTLinux Expansion Package that targets Qt based application and graphical user interface (GUI) development for the STM32MP25xx series microprocessors
